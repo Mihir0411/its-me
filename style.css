@@ -120,7 +120,17 @@ nav a{
 
 }
 .last{
-    width: 70%;
-    background-image: url("group.png");
-    background-repeat: no-repeat;
+    
+}
+a{
+    position: relative;
+    bottom: 200px;
+    left: 1000px;
+}
+.last img{
+    width: 1000px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+    top: 200px;
 }
