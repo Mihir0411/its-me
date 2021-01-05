@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange_highlight{
+    color: orange;
+}
+.half-design{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+   padding: 2%;
+    
+}
+.half-design img{
+    width:100%;
+}
+.top-area{
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.baton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    width: 700;
+}
+.drem-area{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experiance{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.single-expeciance{
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+    background-color: white;
+    
+}
+#full-stack{
+    border: 5px solid orange;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+    
+}
+#baby-web{
+    border: 5px solid blue;
+    border-image: linear-gradient(blue,rgb(0, 255, 200));
+    border-image-slice: 1;
+}
+footer{
+    font-size: 15px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 10px;
+    color: black;
+}
+.menu a{
+    border: 2px solid rgb(160, 227, 160);
+    border-image-slice: 1;
+    margin-top: 5px;
+}
+.top{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.new{
+    height: 0px;
+   
+}
+.new .top h2{
+    font-size: 50px;
+    margin-top: 0px;
+}
+.middle{
+    background-color: rgb(224, 220, 220);
+    height: 500px;
+}
+.three-style{
+    width: 20%;
+    float: left;;
+    margin-left: 1%;
+    padding: 1%;
+   
+}
+.three-style img{
+    width: 100%;
+}
+.middle h2 {
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.thre-space{
+   position: relative;
+   left: 200px;
+   top:  200px;
+
+}
+.last{
+    width: 70%;
+    background-image: url("group.png");
+    background-repeat: no-repeat;
+}
